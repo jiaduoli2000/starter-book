@@ -1,7 +1,7 @@
 ---
-title: Docs
+title: 文档
 type: book  # Do not modify.
 toc: false
 ---
 
-Welcome to the _book_ template!
+好记性不如烂笔头!
