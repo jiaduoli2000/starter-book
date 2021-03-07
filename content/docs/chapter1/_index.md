@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: chapter1
+linktitle: Chapter1
 summary: 学习如何使用学术的文档布局发布在线课程、软件文档和教程
 weight: 1
 icon: book
 icon_pack: fas
 
 # Page metadata.
-title: 教程
+title: Chapter 1
 date: "2021-03-27T00:00:00Z"
 type: book  # Do not modify.
 ---
