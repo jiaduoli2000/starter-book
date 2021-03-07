@@ -1,31 +1,29 @@
 ---
 # Title, summary, and page position.
-linktitle: chapter1
-summary: 学习如何使用学术的文档布局发布在线课程、软件文档和教程
+linktitle: Chapter 2
+summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
 weight: 1
-icon: book
+icon: book-reader
 icon_pack: fas
 
 # Page metadata.
-title: 教程
-date: "2021-03-27T00:00:00Z"
+title: Chapter 2
+date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
 ## Flexibility
 
-文档一切!
-
-该特性可用于发布以下内容:
+This feature can be used for publishing content such as:
 
 * **Online courses**
 * **Project or software documentation**
 * **Tutorials**
 * **Notes**
 
-`courses` 文件夹可以重命名。例如，对于软件/项目文档，我们可以将其重命名为“docs”;对于创建在线课程，我们可以将其重命名为“tutorials”。
+The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
 
-## 删除课程
+## Delete courses
 
 **To remove these pages, delete the `courses` folder and see below to delete the associated menu link.**
 
