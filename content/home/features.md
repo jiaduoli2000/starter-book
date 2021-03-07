@@ -2,19 +2,19 @@
 widget: featurette
 headless: true
 weight: 20
-title: Features
+title: 用途
 subtitle: Document _anything_ ✨
 feature:
   - icon: book-open
     icon_pack: fas
-    name: Project Documentation
+    name: 项目文件
     description: For users
   - icon: question
     icon_pack: fas
-    name: Knowledge Base
+    name: 知识库
     description: For teams
   - icon: list-alt
     icon_pack: fas
-    name: Personal Notebook
+    name: 个人笔记
     description: For yourself
 ---
