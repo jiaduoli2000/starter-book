@@ -24,7 +24,7 @@ cta_note:
     </span>
 ---
 
- [@](https://clinian.online/)
+ [@](https://clinican.online/)
 
 献给那些书虫、书呆子和自己！
 
