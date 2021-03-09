@@ -7,3 +7,7 @@
   name = "Documentation"
   url = "docs/"
   weight = 10
+[[main]]
+  name = "Documentation1"
+  url = "docs copy/"
+  weight = 10
