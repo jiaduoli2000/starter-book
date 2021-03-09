@@ -7,3 +7,8 @@
   name = "文档"
   url = "docs/"
   weight = 10
+[[main]]
+  name = "教程"
+  url = "course/"
+  weight = 20
+  

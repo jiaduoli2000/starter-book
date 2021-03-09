@@ -1,5 +1,5 @@
 ---
-title: 文档
+title: 教程
 type: book  # Do not modify.
 toc: false
 ---
